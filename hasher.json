@@ -1,6 +1,6 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "url": "https://files.lomeli12.net/apps/hasher/hasher.zip",
-    "hash": "F67A9BF25255996CF9C1E7D4A94EF11CA866C5CE0A2732CE112233AE864C0079",
+    "hash": "7D98B1FE162B05292B86433627DF99CFA033A3118C7CADF49AB8BDC45CD19544",
     "bin": "hasher.exe"
 }
