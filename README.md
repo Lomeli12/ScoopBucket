@@ -18,3 +18,9 @@ scoop bucket add lomeli-bucket https://github.com/Lomeli12/ScoopBucket
 ```
 scoop install plummod
 ```
+
+### Whenever you want to update any of these applications, just use the following commands:
+```
+scoop update
+scoop update *
+```
