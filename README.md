@@ -6,7 +6,7 @@ A bucket to install my programs using Scoop (http://scoop.sh/)
 1. If you haven't already, install [Scoop](http://scoop.sh/).
 ```powershell
 Set-ExecutionPolicy RemoteSigned -scope CurrentUser
-iex (new-object net.webclient).downloadstring('https://get.scoop.sh')
+iwr -useb get.scoop.sh | iex
 ```
 
 2. Add this repo as a scoop bucket with the following command.
