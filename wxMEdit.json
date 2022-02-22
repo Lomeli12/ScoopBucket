@@ -10,7 +10,7 @@
 	],
 	"shortcuts": [
         [
-            "wxmedit.exe",
+            "wxMEdit\\wxmedit.exe",
             "wxMEdit"
         ]
     ]
