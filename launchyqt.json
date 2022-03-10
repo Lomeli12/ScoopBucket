@@ -1,0 +1,22 @@
+{
+    "version": "3.1.3",
+    "description": "Launchy project reactivated. Get the familiar feeling now! ",
+    "homepage": "https://github.com/samsonwang/LaunchyQt",
+    "checkver": "github",
+    "license": "GPL-3.0",
+    "url": "https://github.com/samsonwang/LaunchyQt/releases/download/v3.1.3/Launchy-3.1.3-win-x86.zip",
+    "hash": "sha512:3735fb7e1db5102c140aa61da872a5a3db2b08d5648baa8e92cf62bbdea0903f1a41269872e115403af9fc30f3de763043f730cd922511be8ee12c9fde6c0de2",
+    "bin": [
+        "Launchy\\Launchy.exe"
+    ],
+    "shortcuts": [
+        [
+            "Launchy\\Launchy.exe",
+            "Launchy"
+        ]
+    ],
+    "autoupdate": {
+        "url": "https://github.com/samsonwang/LaunchyQt/releases/download/v$version/Launchy-$version-win-x86.zip",
+        "extract_dir": "launchy_v$version"
+    }
+}
