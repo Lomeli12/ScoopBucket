@@ -1,14 +1,14 @@
 {
-    "version": "3.1",
+    "version": "3.2",
     "description": "A Cross-platform Text/Hex editor.",
     "homepage": "https://wxmedit.github.io/",
     "license": "GPL-3",
-    "url": "https://versaweb.dl.sourceforge.net/project/wxmedit/3.1/wxMEdit-3.1-win32-bin.7z",
-    "hash": "aca7f626cc1f4a1328afbe8e5e64a9f1d3b73c713942e53ad87d6f517b836205",
+    "url": "http://downloads.sourceforge.net/project/wxmedit/3.2/wxMEdit-3.2-win64-bin.7z",
+    "hash": "sha512:a4f04a9a008a8502291b9392d686641fc12120cef3ecbf05d55513ecc0b07b7bdd1d1592db011d4abb204f923f886b615dac1915c1fade201b306021c421f62d",
     "bin": [
         "wxMEdit\\wxmedit.exe"
-	],
-	"shortcuts": [
+        ],
+        "shortcuts": [
         [
             "wxMEdit\\wxmedit.exe",
             "wxMEdit"
